@@ -3,6 +3,8 @@
 Use the menu on the left or the search box to get started.
 
 ## Latest Updates
+June 3rd: Added Levers of Control ([Summary Notes](levers-of-control-summary.md) and [Full Text](levers-of-control.md)
+
 June 3rd: Added Monkey Ranch 5 Parts 1 and 2
 
 May 29th: Added [The Goal](thegoal.md) & [The War of Art](thewarofart.md) sections
