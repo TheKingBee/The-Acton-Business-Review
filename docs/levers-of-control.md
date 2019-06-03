@@ -1,4 +1,4 @@
-ontrol
+Levers of Control
 
 By Jeff Sandefer
 ## Introduction
