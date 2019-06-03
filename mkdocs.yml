@@ -1,14 +1,41 @@
-site_name: My Docs
+site_name: Acton Business Review 
+site_url: 'http://shazzam.me'
+# repo_url: https://github.com/TheKingBee/Acton-2019-Review
 theme:
-    name: null
-    custom_dir: 'mkdocs-material/material'
-    language: 'en'
-    palette:
-        primary: 'indigo'
-        accent: 'indigo'
-    font: 
-        text: 'Roboto'
-        code: 'Roboto Mono'
-    logo:
-        icon: 'cloud'
-    feature: 'false'
+  name: null 
+  custom_dir: 'mkdocs-material/material'
+  logo: 'cloud'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  feature: 'false'
+nav:
+  - frameworks.md
+  - 'Customers & Sales':
+          - intro-to-customers.md
+          - customersshoes.md
+          - haggling.md
+          - insidemind.md
+          - customerbehavior.md
+          - dealingwithcompetition.md
+          - targetingcustomers.md
+          - pricingseasons.md
+          - artofpricing1.md
+          - artofpricing2.md
+          - salesfunnel.md
+          - chaching.md
+          - saleswom.md
+          - answeringquestionswithquestions.md
+  - Operations: operations.md
+  - 'Cash & Valuation': cashvaluation.md
+  - Discovery: discovery.md
+  - 'Monkey Ranch': monkeyranch.md
+  - Readings:
+      - thegoal.md
+      - thewarofart.md
+      - emyth.md
+      - mastery.md

@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Welcome to the 2019 Acton Review
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Use the menu on the left or the search box to get started.
 
-## Commands
+## Latest Updates
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+May 29th: Added [The Goal](thegoal.md) & [The War of Art](thewarofart.md) sections
 
-## Project layout
+May 29th: Completed [Introduction to Customers](./intro-to-customers.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+May 29th: Added [Frameworks page](./frameworks.md)
+
+May 29th: Added Videos for Monkey Ranch #1, #2, #3, #4, and #6
+
+May 28th: Added Monkey Ranch section
+
+
+## Todo
+
+- Operations
+- Cash and Valuation
+- Discovery
+- Monkey Ranch #5
