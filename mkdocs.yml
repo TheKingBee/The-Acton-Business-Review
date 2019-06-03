@@ -30,7 +30,9 @@ nav:
           - chaching.md
           - saleswom.md
           - answeringquestionswithquestions.md
-  - Operations: operations.md
+  - Operations: 
+        - levers-of-control.md
+        - levers-of-control-summary.md
   - 'Cash & Valuation': cashvaluation.md
   - Discovery: discovery.md
   - 'Monkey Ranch': monkeyranch.md
