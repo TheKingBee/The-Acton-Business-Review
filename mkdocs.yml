@@ -32,6 +32,7 @@ nav:
           - answeringquestionswithquestions.md
   - Operations: 
         - intro-to-operations.md
+        - processes101.md
         - levers-of-control-summary.md
   - 'Cash & Valuation': cashvaluation.md
   - Discovery: discovery.md
