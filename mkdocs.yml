@@ -31,6 +31,7 @@ nav:
           - saleswom.md
           - answeringquestionswithquestions.md
   - Operations: 
+        - intro-to-operations.md
         - levers-of-control-summary.md
   - 'Cash & Valuation': cashvaluation.md
   - Discovery: discovery.md
