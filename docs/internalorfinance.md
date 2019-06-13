@@ -108,7 +108,44 @@ you've probably made a good investment.
 
 ### High-Yield Debt or Equity
 
+** <u>High-Yield Debt</u> **
+- PRO: Can be refinanced with lower cost term debt
+- PRO: Requires no loss of equity
+- CON: Must make principal and interest payments even when company not doing well
+
+** <u>Equity</u> ** 
+- PRO: No pricinpal or interest payments or lenders to force company into bankruptcy
+- CON: Permenant loss of equity and potential profits from a successful venture
+
+High Yield debt is more advantagous when a company is very successful because 
+retaining equity means more money for you. Financing with equity is better 
+when the company grows slower than expected because there are no periodic 
+interest and principal payments driving the company towards insolvancy.
+
 ## Running Scenarios
+
+How do you decide between high-yield debt and equity?
+
+The Steps:
+
+#### Start With SGR
+1. Start with the base case -- youre expected amount of revenue.
+1. Determine how quickly you can grow relying solely on internal cash flow
+1. If your business is not yet self-funding, determine how large of a 
+primary sunk investment it will take for the company to reach a minimum
+sustainable size. Use free cash flows from these cases as a bases for all other
+growth scenarios.
+
+#### Then A Revolver
+
+
+#### Now Consider A Term Loan
+
+
+#### Still more room to grow? Price out High-Yield Debt.
+
+#### Lastly, sell equity
+
 
 ## Hidden Costs in Financings
 
