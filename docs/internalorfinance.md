@@ -106,16 +106,18 @@ If you buy a company or an asset so cheaply that its purchase price and all
 the investment you need for growth can be financed with traditional bank debt,
 you've probably made a good investment.
 
-### High-Yield Debt or Equity
+### High-Yield Debt vs Equity
 
-** <u>High-Yield Debt</u> **
+#### High-Yield Debt
+
 - PRO: Can be refinanced with lower cost term debt
 
 - PRO: Requires no loss of equity
 
 - CON: Must make principal and interest payments even when company not doing well
 
-** <u>Equity</u> ** 
+#### Equity
+
 - PRO: No pricinpal or interest payments or lenders to force company into bankruptcy
 
 - CON: Permenant loss of equity and potential profits from a successful venture
