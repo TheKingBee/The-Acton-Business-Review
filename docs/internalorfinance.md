@@ -110,11 +110,14 @@ you've probably made a good investment.
 
 ** <u>High-Yield Debt</u> **
 - PRO: Can be refinanced with lower cost term debt
+
 - PRO: Requires no loss of equity
+
 - CON: Must make principal and interest payments even when company not doing well
 
 ** <u>Equity</u> ** 
 - PRO: No pricinpal or interest payments or lenders to force company into bankruptcy
+
 - CON: Permenant loss of equity and potential profits from a successful venture
 
 High Yield debt is more advantagous when a company is very successful because 
