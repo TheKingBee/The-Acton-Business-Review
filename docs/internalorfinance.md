@@ -22,10 +22,10 @@ Your goals are:
 - To raise as little capital as neccessary (to fund the right kind of growth)
 - To never run out of cash
 
-** Raise as much cash as possible form cheaper capital sources before adding 
-incrementally from more expensive sources ** 
+** Raise as much cash as possible form cheaper capital sources before adding
+incrementally from more expensive sources **
 
-Since you can not predict your customers appetite for your products or how your 
+Since you can not predict your customers appetite for your products or how your
 competitors will perform you must prepare for several possible outcomes.
 
 First, ask yourself these questions:
@@ -39,8 +39,8 @@ First, ask yourself these questions:
 
 #### Slower Rates
 
-- You can be choosier about which customers 
-    - PRO: It's easier to charge higher average unit prices 
+- You can be choosier about which customers
+    - PRO: It's easier to charge higher average unit prices
     - PRO: Lower average sales costs
     - CON: Less leverage to demand price concessions with suppliers
     - CON: Less leverage to ask for better payment terms from customers
@@ -52,9 +52,9 @@ First, ask yourself these questions:
     - PRO: Costs may decline as you achieve economies of scale
     - PRO: Costs may decline due to more leverage over suppliers
     - CON: May require lower margins
-    - CON: May need more fixed commitments like hiring people and renting new 
+    - CON: May need more fixed commitments like hiring people and renting new
     office or manufacting space
-    - CON: If revenues disappoint, expenses must be immediately slashed or 
+    - CON: If revenues disappoint, expenses must be immediately slashed or
     expenses as a percentage of revenues will rise.
 
 
@@ -70,12 +70,41 @@ The basic funding options, listed from the cheapest to the most expensive, are:
 
 ### Operational Changes to the Business Model
 
+Internal capital is cheaper than external capital.
+
+Look for changes in operating procedures that can reduce cash needs and increase
+cash flows to the firm.
+
+Examples:
+
+- Choose customers who buy in large lots, pay early, or pay top prices
+- Choosing suppliers who will extend credit
+
+
+<u>**There is no operational free lunch:**</u>
+Shrinking Accounts Receivables will add SG&A expenses to collect unpaid
+bills. Tighter payment terms might also affect sales.
 
 ### Revolving Line of Credit
 
+- Accounts Receivable
+- Accounts Payable
+- Revolving Bank Loans
+    - Ex: Credit Cards, Business Lines of Credit
+    - Repeating 30-90 day terms
+    - Balances roll overto the next term
 
 ### Borrowing Bank Term Debt
 
+- Fixed Term, Fixed Rate, Fixed Amortization schedule
+- Single 5-7 year term
+- Interest and principle are paid from cash flow remaining after you have paid 
+the interest on the revolving debt
+- Rate is one or more percentage points higher than a revolver.
+
+If you buy a company or an asset so cheaply that its purchase price and all 
+the investment you need for growth canbe financed with traditional bank debt,
+you've probably made a good investment.
 
 ### High-Yield Debt or Equity
 
