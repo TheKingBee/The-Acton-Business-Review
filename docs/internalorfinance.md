@@ -48,6 +48,16 @@ First, ask yourself these questions:
 
 #### Faster Rates
 
+- You may be less choosy about customers
+    - PRO: Costs may decline as you achieve economies of scale
+    - PRO: Costs may decline due to more leverage over suppliers
+    - CON: May require lower margins
+    - CON: May need more fixed commitments like hiring people and renting new 
+    office or manufacting space
+    - CON: If revenues disappoint, expenses must be immediately slashed or 
+    expenses as a percentage of revenues will rise.
+
+
 ## Sources of Financing: Cheapest Capital to Most Expensive
 
 The basic funding options, listed from the cheapest to the most expensive, are:
