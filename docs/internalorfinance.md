@@ -103,7 +103,7 @@ the interest on the revolving debt
 - Rate is one or more percentage points higher than a revolver.
 
 If you buy a company or an asset so cheaply that its purchase price and all 
-the investment you need for growth canbe financed with traditional bank debt,
+the investment you need for growth can be financed with traditional bank debt,
 you've probably made a good investment.
 
 ### High-Yield Debt or Equity
