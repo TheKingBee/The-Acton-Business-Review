@@ -3,6 +3,8 @@
 Use the menu on the left or the search box to get started.
 
 ## Latest Updates
+June 12th: Added [Cash & Val: Internal or Finance](internalorfinance.md)
+
 June 12th: Cleaned up [Putting Yourself in The Customers Shoes](customersshoes.md)
 
 June 3rd: Added Monkey Ranch 5 Parts 1 and 2
