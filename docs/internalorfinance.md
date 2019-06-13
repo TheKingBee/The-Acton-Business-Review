@@ -118,9 +118,9 @@ you've probably made a good investment.
 
 #### Equity
 
-- PRO: No pricinpal or interest payments or lenders to force company into bankruptcy
+- PRO: No principal or interest payments or lenders to force company into bankruptcy
 
-- CON: Permenant loss of equity and potential profits from a successful venture
+- CON: Permanent loss of equity and potential profits from a successful venture
 
 High Yield debt is more advantagous when a company is very successful because 
 retaining equity means more money for you. Financing with equity is better 
