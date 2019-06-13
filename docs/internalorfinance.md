@@ -152,7 +152,31 @@ growth scenarios.
 
 ## Hidden Costs in Financings
 
+### Long-Tailed Liabilities (Potential Time Bombs)
 
+- Meddlesome Partners
+- Personal Loan Guarentees
+- Litigious Investors
+- Friend/Family Investors
 
+Ask yourself, "How much should I pay today, in cash, to avoid a problem 
+like this?  Add this to the cost of financing before making a decision.
 
+### Time and Cost of Raising Money
+
+- How much time will it take to raise money?
+- How much time and money will it take to raise each type of financing?
+- Legal fees and commissions? 
+- How much will you spend if the financing fails? 
+- What will the time away from the business do to customers and sales? 
+
+### The Care and Feeding of Investors
+First-time entrepreneurs underestimate the costs of the "Care and feeding"
+of investors.
+
+- Legal fees and commissions are just the start
+- Large companies spend millions on SEC filings
+- Executives spend more time with analysts than customers
+- If you grow only through internally generated funds you 
+only have to answer to customers and employees.
 
