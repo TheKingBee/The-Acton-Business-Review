@@ -22,8 +22,8 @@ Your goals are:
 - To raise as little capital as neccessary (to fund the right kind of growth)
 - To never run out of cash
 
-Raise as much cash as possible form cheaper capital sources before adding 
-incremental funding from investors who demand higher returns
+** Raise as much cash as possible form cheaper capital sources before adding 
+incrementally from more expensive sources ** 
 
 Since you can not predict your customers appetite for your products or how your 
 competitors will perform you must prepare for several possible outcomes.
