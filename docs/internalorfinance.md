@@ -128,7 +128,10 @@ How do you decide between high-yield debt and equity?
 
 The Steps:
 
-#### Start With SGR
+### The Financing Progression
+SGR > Revolver > Term Loan > High Yield > Sell Equity
+
+#### 1) SGR
 1. Start with the base case -- youre expected amount of revenue.
 1. Determine how quickly you can grow relying solely on internal cash flow
 1. If your business is not yet self-funding, determine how large of a 
@@ -136,15 +139,15 @@ primary sunk investment it will take for the company to reach a minimum
 sustainable size. Use free cash flows from these cases as a bases for all other
 growth scenarios.
 
-#### Then A Revolver
+#### 2) Revolver
 
 
-#### Now Consider A Term Loan
+#### 3) Term Loan
 
 
-#### Still more room to grow? Price out High-Yield Debt.
+#### 4) High-Yield Debt.
 
-#### Lastly, sell equity
+#### 5) Lastly, Sell Equity
 
 
 ## Hidden Costs in Financings
