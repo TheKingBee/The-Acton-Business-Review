@@ -39,21 +39,24 @@ NOT a book of strategies
 
 
 
-## Chapter 11:
+## Chapter 11: Conclusion
 
 ### The Cost World:
-- Constant search for high-local efficiencies with the objective of maximizing use
+- DEFINITION:  The Cost World is the "Constant search for high <u>**local**</u> efficiencies with the objective of maximizing use
 of the company's resources/activities"
 
-- **This takes a system in the opposite direction of its goal.**
+- **The Cost World takes a system in the opposite direction of its goal.**
 
-- Some defenders of "The Cost World" understand that: "JIT (Just-in-Time) production
+- Some defenders of "The Cost World" understand the above point: "JIT (Just-in-Time) production
 policies also make traditional local efficiency measures such as individual
 worker output and machine uptime invalid" - Johnson and Kaplan. Relevance Lost (p. 223)
 
-- Cost World defenders don't know these are **INVALID**:
-  - Traditional local efficiency measurements
-  - Any measurement that stimulates high-local efficiencies
+Cost World Advocates don't know that:
+
+- Traditional local efficiency measurements are **INVALID**
+- Any measurement that stimulates high-local efficiencies is **INVALID**
+
+Why the Cost World is bad:
 
 - Cost drivers stimulate managers to optimize every link/activity in the chain.
 ** This does not lead to global optimization **
@@ -84,3 +87,5 @@ but still leads to bad decisons as all cost accounting systems do
 >players, as a system, every player to support the others. There
 >are other aims for an orchestra, such as joy in work for the players
 >and for the conductor. --- W. Deming (The New Economics pg 96-97)
+
+
