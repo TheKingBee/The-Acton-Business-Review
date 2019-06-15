@@ -11,9 +11,9 @@ The book has two main objectives:
 
 ## What This Book Is About
 
-** how to make decisions according to the system's objectives **
+** How to make decisions according to the system's objectives. **
 
-NOT a book of strategies
+It is NOT a book of strategies.
 
 - Chapter 1: The market situation and the role of management accounting in this context.
 
@@ -42,8 +42,8 @@ NOT a book of strategies
 ## Chapter 11: Conclusion
 
 ### The Cost World:
-- DEFINITION:  The Cost World is the "Constant search for high <u>**local**</u> efficiencies with the objective of maximizing use
-of the company's resources/activities"
+- **DEFINITION**:  The Cost World is the "Constant search for high <u>**local**</u> efficiencies with the 
+objective of maximizing use of the company's resources/activities"
 
 - **The Cost World takes a system in the opposite direction of its goal.**
 
@@ -51,12 +51,12 @@ of the company's resources/activities"
 policies also make traditional local efficiency measures such as individual
 worker output and machine uptime invalid" - Johnson and Kaplan. Relevance Lost (p. 223)
 
-Cost World Advocates don't know that:
+<u>**Cost World Advocates DON'T know that:**</u>
 
 - Traditional local efficiency measurements are **INVALID**
 - Any measurement that stimulates high-local efficiencies is **INVALID**
 
-Why the Cost World is bad:
+<u>**Why the Cost World is bad:**</u>
 
 - Cost drivers stimulate managers to optimize every link/activity in the chain.
 ** This does not lead to global optimization **
@@ -68,6 +68,25 @@ but not the overall system performance
 
 - Activity Based Accounting (ABC) is a refinement of the traditional and cost accounting system
 but still leads to bad decisons as all cost accounting systems do
+
+<u>** Costs World's Undesirable Effects:</u>
+
+1. Too complicated. Few Understand it. Expensive to implement.
+1. Is not intuitive.
+1. Does not choose best product mix, because isn't able to identify the products that contribute
+the most to company profits.
+1. Local efficiency measures increase WIP, decrease product quality, increase lead-time, and
+worsen company customer service.
+1. Cost allocation to products stimulates management to increase WIP and finished goods inventories
+in order to artificially increase short-term profits.
+1. Some performance measure are at odds with each other and with the company goal.
+1. It suggests that some actions will improve performance when in reality they worsen performance.
+1. Blocks some actions that improve the company's performance.
+1. Creates the notion of cost per part that prevents the company from 
+identifying improvements in its performance thereby creating a perception of
+value that jeopardizes the company's marketing strategies.
+1. Ignores the existence of a system's constraints becuase it does not consider the company a system.
+1. 
 
 ### How A System Should Function
 
