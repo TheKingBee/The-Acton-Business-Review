@@ -86,7 +86,16 @@ in order to artificially increase short-term profits.
 identifying improvements in its performance thereby creating a perception of
 value that jeopardizes the company's marketing strategies.
 1. Ignores the existence of a system's constraints becuase it does not consider the company a system.
-1. 
+1. It assumes a coompany's costs always vary with changes in the mix and/or changes in production volume.
+1. Disperses efforts
+1. Decreases product offerings to the market, again placing a straitjacker on 
+the company's marketing policies (batch sizing, one fari price, and so on).
+1. Does not allow a process of ongoing improvement.
+1. Simulates lay-offs and by doing so does not allow for the creation of a 
+motivating work enviornment.
+1. Holds that local optima leads to global optimum; It's still based on
+concepts from a century ago and therefore is not a paradigm shift.
+It has not adapted to the new reality.
 
 ### How A System Should Function
 
