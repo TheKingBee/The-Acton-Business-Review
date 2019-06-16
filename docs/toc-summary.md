@@ -69,7 +69,7 @@ but not the overall system performance
 - Activity Based Accounting (ABC) is a refinement of the traditional and cost accounting system
 but still leads to bad decisons as all cost accounting systems do
 
-<u>** Costs World's Undesirable Effects:</u>
+<u>** Costs World's Undesirable Effects: **</u>
 
 1. Too complicated. Few Understand it. Expensive to implement.
 1. Is not intuitive.
@@ -79,7 +79,7 @@ the most to company profits.
 worsen company customer service.
 1. Cost allocation to products stimulates management to increase WIP and finished goods inventories
 in order to artificially increase short-term profits.
-1. Some performance measure are at odds with each other and with the company goal.
+1. Some performance measures are at odds with each other and with the company goal.
 1. It suggests that some actions will improve performance when in reality they worsen performance.
 1. Blocks some actions that improve the company's performance.
 1. Creates the notion of cost per part that prevents the company from 
