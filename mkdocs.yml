@@ -15,6 +15,7 @@ theme:
   feature: 'false'
 nav:
   - frameworks.md
+  - Appendix1.md
   - 'Customers & Sales':
           - intro-to-customers.md
           - customersshoes.md
