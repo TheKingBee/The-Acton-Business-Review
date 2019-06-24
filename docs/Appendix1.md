@@ -174,7 +174,7 @@ to do an individual task better, cheaper, and faster over time. With
 each task in your process specialized, you can hire lower cost labor or
 even purchase a machine to automate the task.
 
-![](./media/image2.tiff)
+![](./media/image2.png)
 
 **Creating a Process**
 
@@ -313,7 +313,7 @@ process.
 <span class="underline">See below: Capacity & Cycle Time: An Inverse
 Relationship</span>
 
-![](./media/image21.tiff)
+![](./media/image21.png)
 
 **Idle Time**
 
@@ -364,7 +364,7 @@ request is made to when the request is filled.
 
 **Bottlenecks: An Important Limiting Factor**
 
-![](./media/image22.tiff)
+![](./media/image22.png)
 
 **Conclusion**
 
@@ -455,7 +455,7 @@ To estimate it, compare the amount of space taken up by the green bar
 (pre-tax cash flow), as compared to the total height of the stacked bar
 (revenue).
 
-![](./media/image23.tiff)![](./media/image24.tiff)![](./media/image25.tiff)
+![](./media/image23.png)![](./media/image24.png)![](./media/image25.png)
 
 W9: Making Incremental Improvements
 
@@ -952,7 +952,7 @@ processes. If you can hire the right people, and inspire them to embrace
 continuous improvement, you’ll be building an operational advantage that
 no other company can copy.
 
-![](./media/image26.tiff)
+![](./media/image26.png)
 
 **Operational Hiccups**
 
@@ -1115,7 +1115,7 @@ Mathematically, this relationship can be expressed as:
 
 > Throughput (Lead) Time = Cycle Time \* Work-in-Process
 
-![](./media/image27.tiff)
+![](./media/image27.png)
 
 **<span class="underline">Calculate WIP Given Throughput Time and Cycle
 Time</span>**
@@ -1355,7 +1355,7 @@ be your best option if the fixed-period cost commitments are too high.
 Examine your processes for the following clues. When you encounter one
 of these conditions, take the next step indicated.
 
-![](./media/image28.tiff)
+![](./media/image28.png)
 
 Remember that you can apply these methods to any process in your
 business, not just your “product manufacturing” processes. Examine your
@@ -1405,7 +1405,7 @@ Though as soon as you do change your operating model, you’ll be back in
 the trenches making the detailed daily operational decisions on the path
 to maximizing customer satisfaction and free cash flows.
 
-![](./media/image29.tiff)
+![](./media/image29.png)
 
 W11: Surverying The Battlefield
 
@@ -1461,11 +1461,11 @@ control of the information system to demand concessions from smaller
 suppliers, who might be excluded from the information system if they
 refuse to lower prices.*
 
-![](./media/image30.tiff)
+![](./media/image30.png)
 
-![](./media/image31.tiff)![](./media/image32.tiff)
+![](./media/image31.png)![](./media/image32.png)
 
-![](./media/image33.tiff)
+![](./media/image33.png)
 
 W12: Making A Big Bet In Operations
 
@@ -1677,7 +1677,7 @@ you toward one solution or another?
 Now make the decision. Because, as the owner, the decision to make a big
 leap or not will always belong to you.
 
-![](./media/image34.tiff)
+![](./media/image34.png)
 
 **<span class="underline">Eliminating Excess Capacity</span>**
 
@@ -1829,7 +1829,7 @@ next level, or big bets can destroy your business. That’s why it’s
 important to analyze the risks and costs of eliminating spare capacity,
 before you make the decision to build it.
 
-![](./media/image35.tiff)
+![](./media/image35.png)
 
 W13: Incentives, Labor, & Human Variability
 
@@ -2223,7 +2223,7 @@ assembly “departments” (Figure 1). Each varied order (batch) will move
 from one department to another according to the unique specifications of
 that part.
 
-![](./media/image36.tiff)
+![](./media/image36.png)
 
 **The Assembly Line**
 
@@ -2242,7 +2242,7 @@ They set up five different lines in three configurations to handle the
 specifications of three standardized products (two products have two
 dedicated lines).
 
-![](./media/image37.tiff)
+![](./media/image37.png)
 
 The advantage is that each machine is set up once and then runs
 continuously. Since work-inprocess flows directly from one workstation
@@ -2274,13 +2274,13 @@ steps required to produce one type of product. On the last step of the
 process, standardized parts are assembled into various product options
 per cell.
 
-![](./media/image38.tiff)
+![](./media/image38.png)
 
 As a result of reorganizing into cells, the manufacturer gets some of
 the physical advantages (and disadvantages) of both an assembly line and
 a job shop.
 
-![](./media/image39.tiff)
+![](./media/image39.png)
 
 The potential physical advantages of cellular processes are clear: by
 combining some of the flexibility of a job shop with some of the
@@ -2413,7 +2413,7 @@ a performance characteristic.
 
 ***Types of Queues***
 
-![](./media/image40.tiff)
+![](./media/image40.png)
 
 A multiple-stage situation is distinguished by the fact that when
 customers enter the system, they need to be served by more than one
@@ -2426,7 +2426,7 @@ customer's needs, and the customer "departs" to eat the meal. Unlike at
 Au Bon Pain, the individual server at the counter does not take another
 order until the customer being served leaves the system.
 
-![](./media/image41.tiff)
+![](./media/image41.png)
 
 There is a famous maxim, sometimes known as "Erma Bombeck's Law," which
 says: The other line always moves faster. In the system depicted above,
@@ -2437,7 +2437,7 @@ systems can have, institutions such as banks and airlines have installed
 facilities so that all arriving customers join a single line and are
 directed to the first available server.
 
-![](./media/image42.tiff)
+![](./media/image42.png)
 
 Queue disciplines are one of the prime managerial tools available to
 affect the behavior of the system. Consider, for example, a street
@@ -2453,7 +2453,7 @@ situation is provided by special service lines at check-out counters in
 supermarkets, where customers with eight items or less (or some such
 number) may choose the "express" line.
 
-![](./media/image43.tiff)
+![](./media/image43.png)
 
 ***The Behavior of Simple Systems***
 
@@ -2464,7 +2464,7 @@ complex and it is usual in most real-world situations to employ (custom
 designed) simulation models to study the behavior of individual queuing
 situations.
 
-![](./media/image44.tiff)
+![](./media/image44.png)
 
 ***The Management of Queues***
 
@@ -2603,7 +2603,7 @@ major parts: 
 
 **2. Knowing when to sell.**
 
-![](./media/image45.tiff)
+![](./media/image45.png)
 
 **In a way, the progression of the C\&V framework mirrors the evolution
 of a business:**
@@ -2899,7 +2899,7 @@ cash you earn over and above payout is pure gravy.
 **How to Calculate Pre-Tax Cash Flow:** (all the pictures below express
 the same method)
 
-![](./media/image46.tiff)
+![](./media/image46.png)
 
 ![](./media/image47.png)![](./media/image48.png)
 
@@ -2958,7 +2958,7 @@ fixed-period expenses, like rent and salaries. In other words, for
 simple businesses, it shows how changes in unit volume will affect
 revenues, expenses, profits and free cash flows.
 
-![](./media/image52.tiff)
+![](./media/image52.png)
 
 Once you have calculated the annual pre-tax free cash flows for your
 firm, <span class="underline">it’s time to determine the correct
@@ -3081,15 +3081,15 @@ matter of projecting past trends into the future. This can be done
 graphically or mathematically. Either way, the most difficult decision
 is which data to use and which data to ignore when looking for trends.
 
-![](./media/image53.tiff)
+![](./media/image53.png)
 
-![](./media/image54.tiff)
+![](./media/image54.png)
 
 Company B, however, presents a more difficult problem, particularly if
 you are told that management believes that the dip in sales during 2006
 was an aberration.
 
-![](./media/image55.tiff)
+![](./media/image55.png)
 
 Do you believe management and ignore the 2006 results? Should you use a
 “least squares” fit from 2002 until 2006 (Projection A),1 the data
@@ -3112,7 +3112,7 @@ view of future revenues. Let’s look more deeply at Company A’s revenues
 by examining the relationship between unit sales volume and price per
 unit.
 
-![](./media/image56.tiff)
+![](./media/image56.png)
 
 Previously, we were reassured by the steady upward climb of Company A’s
 revenues. Now we see disturbing trends. Unit sales are steadily
@@ -3134,7 +3134,7 @@ may lead to more-accurate revenue predictions.
 
 **Step Two: Measuring the Tradeoffs Between Substitutes**
 
-![](./media/image57.tiff)
+![](./media/image57.png)
 
 **Step Three: Judging the Size of and Penetration Rates for Your
 Market**
@@ -3175,7 +3175,7 @@ Market**
 
 W5: Unit Economics in Action
 
-![](./media/image58.tiff)
+![](./media/image58.png)
 
 **Start with Supply**
 
@@ -3245,7 +3245,7 @@ group of customers with relatively homogeneous needs.
     much shared value you want to offer the customer and how much you
     want to keep, and you’ve determined your new price.
 
-![](./media/image59.tiff)
+![](./media/image59.png)
 
 **Value **
 
@@ -3255,7 +3255,7 @@ pay is set inside the mind of each consumer as they make subjective and
 sometimes irrational tradeoffs between the money they have, the
 intensity of the desires they wish to satisfy,
 
-![](./media/image60.tiff)
+![](./media/image60.png)
 
 **The Mistake of Using Costs to Set Prices **
 
@@ -3290,7 +3290,7 @@ create a new product; (2) attract customers; (3) manufacture a product;
 or (4) deliver a product. 15 It typically serves every customer in the
 same way.
 
-![](./media/image61.tiff)
+![](./media/image61.png)
 
 **Summary**
 
@@ -3318,7 +3318,7 @@ place leads to a much larger result in another place. In the ancient
 Greek philosopher Archimedes’s case, he believed a small force
 (himself), applied far enough away from a fulcrum, could move the earth.
 
-![](./media/image62.tiff)
+![](./media/image62.png)
 
 **Operating & Financial Leverage:** “Leverage” in business describes the
 relationship between changes in revenues and changes in free cash flows,
@@ -3363,7 +3363,7 @@ Unfortunately, the production capacity (and thus sales growth) is
 limited. Low contribution margins, combined with low fixed costs, lead
 to low but stable operating margins
 
-![](./media/image63.tiff)
+![](./media/image63.png)
 
 ***An Asset-Intensive, High-Volume Manufacturer***
 
@@ -3381,7 +3381,7 @@ breakeven volumes are exceeded. Because a machine can have a high
 capacity in relation to breakeven volume, extraordinary profits and cash
 flows are possible if unit sales continue to grow.
 
-![](./media/image64.tiff)
+![](./media/image64.png)
 
 ***The Best Strategy of All: Bootstrapping Your Way to Success***
 
@@ -3393,7 +3393,7 @@ committing sunk investments and fixed-period costs to add capacity and
 increase efficiency, you greatly lower the risk of adding operating
 leverage.
 
-![](./media/image65.tiff)
+![](./media/image65.png)
 
 **What is Financial Leverage?**
 
@@ -3449,7 +3449,7 @@ statement is a financial record that helps the owner track expenses by
 category, recognize trends, and hold managers accountable for their
 respective areas of responsibility.
 
-![](./media/image66.tiff)
+![](./media/image66.png)
 
 **COGS**
 
@@ -3482,9 +3482,9 @@ same thing as cash left over after all inputs, workers, managers, and
 suppliers have been paid. Put another way, EBITDA is the same thing as
 the unit economics pre-tax cash flow.
 
-![](./media/image67.tiff)
+![](./media/image67.png)
 
-![](./media/image68.tiff)![](./media/image69.tiff)
+![](./media/image68.png)![](./media/image69.png)
 
 **<span class="underline">Summary</span>**
 
@@ -3622,7 +3622,7 @@ are clear about the “units” you are selling, and the primary sunk
 investment you have made, the chances are much higher that you will
 “over recover” your fixed and sunk costs and survive.
 
-![](./media/image70.tiff)
+![](./media/image70.png)
 
 The following questions will guide you through these decisions with your
 own business:
@@ -3743,7 +3743,7 @@ the most difficult task you face, because you have to forecast the
 actions of fickle customers and whether competitors will be successful
 in luring those customers away.
 
-![](./media/image71.tiff)
+![](./media/image71.png)
 
 If you use all the data points, sales appear to be gently climbing. If
 you use the last four years of data, sales are flat. If you assume the
@@ -3767,7 +3767,7 @@ expenses based on historical financial statements:</span>
 **1. Restate revenue increases in terms of annual percentage increases
 and common sizing expenses.**
 
-![](./media/image72.tiff)
+![](./media/image72.png)
 
 **2. Tease out fixed-period and variable cost relationships.** There are
 two approaches for estimating the fixed-period and variable cost
@@ -3776,17 +3776,17 @@ relationships from historical data when both are present:
 > 1\. Graphically (Draw a best-fit curve that describes the relationship
 > between revenues and expenses).
 > 
-> ![](./media/image73.tiff)
+> ![](./media/image73.png)
 
 2\. The High-Low method (which takes revenue and expense readings at two
 different points in time and mathematically describes a fixed-period and
 variable relationship between the two points).
 
-> ![](./media/image74.tiff)
+> ![](./media/image74.png)
 
 **3. Project expenses as a percentage of future revenues.**
 
-![](./media/image75.tiff)
+![](./media/image75.png)
 
 **Step 3: Calculating Gross Profits and EBITDA**
 
@@ -3798,7 +3798,7 @@ making unlevered free cash flow to the firm projections for Roadrunner
 revenues is no guarantee of the future, and resolve to dig more deeply
 into its customer needs and markets before making any sort of offer.)
 
-![](./media/image76.tiff)
+![](./media/image76.png)
 
 The next step in projecting free cash flows to the firm is deducting
 COGS from revenues to calculate gross profits, and then subtracting
@@ -3856,7 +3856,7 @@ W9: Monkey Ranch 4
 
 W9: Counting the Cash in a Simple Firm
 
-**Step 4: Estimating Depreciation**![](./media/image77.tiff)
+**Step 4: Estimating Depreciation**![](./media/image77.png)
 
 Another option is to make adjustments on your financial statements for
 the “depreciation,” or loss in value of the asset, that has occurred.
@@ -3875,9 +3875,9 @@ depreciation, so your financial statements likely do not reflect the
 true economic depreciation that has occurred in your particular
 business.
 
-![](./media/image78.tiff)
+![](./media/image78.png)
 
-![](./media/image79.tiff)
+![](./media/image79.png)
 
 **Step 5: Estimating Federal Income Taxes**
 
@@ -3888,9 +3888,9 @@ subtract taxes from taxable income to obtain net income. Net income is a
 GAAP measure that allows the profits of one business to be compared with
 another’s.
 
-![](./media/image80.tiff)
+![](./media/image80.png)
 
-![](./media/image81.tiff)
+![](./media/image81.png)
 
 **Step 6: Checking Trends in Revenue Growth, Gross Margins, and Net
 Margins for the Effects of Competition**
@@ -3900,9 +3900,9 @@ take an explicit look at revenue growth rates and gross and net margins.
 How have revenues and gross and net margins historically changed over
 time? How do your projections suggest they will change in the future?
 
-![](./media/image82.tiff)
+![](./media/image82.png)
 
-![](./media/image83.tiff)
+![](./media/image83.png)
 
 Of course, at this point you wish you had a competitive analysis and a
 deep understanding of unit economics to more fully inform your
@@ -3978,7 +3978,7 @@ require a 15% or larger risk premium. Additional risk premiums may be
 needed to adjust for private 2 (illiquid) companies, industry ­specific
 risks and the risks to individual companies
 
-![](./media/image84.tiff)
+![](./media/image84.png)
 
 **Warning\!** This approach for estimating discount rates is little more
 than a rough guess. Some large companies can have fickle customers. Some
@@ -4074,7 +4074,7 @@ the company’s capital structure. For example, a company with a 34% tax
 rate and debt equal to 40% of its firm value, paying a 10% interest
 rate, with a cost of equity of 20%, would have a WACC of 15%.
 
-![](./media/image85.tiff)
+![](./media/image85.png)
 
 WACC works as a discount rate proxy for the internal investment
 decisions of large firms with stable capital structures. Because it
@@ -4280,7 +4280,7 @@ market and reach a point of diminishing returns on sales growth within
 five years or less, so your terminal value calculation may come much
 sooner.
 
-![](./media/image86.tiff)
+![](./media/image86.png)
 
 **What Methods Can You Use to Compute a Terminal Value?**
 
@@ -4327,7 +4327,7 @@ method.)
     8X to 10X or even higher. Here, the cash flows from the business
     look so steady, and the returns from alternative investment choices
     are so low, that a buyer will place a much higher value on the
-    terminal year cash flow. ![](./media/image87.tiff)
+    terminal year cash flow. ![](./media/image87.png)
 
   - **Warning:** EBITDA multiples work best for estimating a terminal
     value for businesses that have stable revenues and margins. It does
@@ -4421,7 +4421,7 @@ the final year, any taxes will be paid by individual shareholders and
 not the company, so taxes do not need to be deducted from the company’s
 free cash flows to the firm.
 
-![](./media/image88.tiff)
+![](./media/image88.png)
 
 The only time taxes need to be deducted from a terminal value is if it
 is assumed that the firm’s assets will be liquidated and taxes are paid
@@ -4751,7 +4751,7 @@ intensity**—the inventories required to support revenues in previous
 periods. To determine this, first look at the historical relationship
 between COGS and inventories.
 
-![](./media/image89.tiff)
+![](./media/image89.png)
 
 Here we see that given the way operations were structured in the past,
 it appears that inventories equal to around 30% of COGS were required to
@@ -4772,12 +4772,12 @@ may not vary proportionately with inventory.
 
 **2. The second step is to project revenues and COGS.**
 
-![](./media/image90.tiff)
+![](./media/image90.png)
 
 **3. The final step is to project the incremental investment in
 inventories to support an incremental investment in revenues and COGS.**
 
-![](./media/image91.tiff)
+![](./media/image91.png)
 
 In other words, the goal will be to run more products through the
 assembly line. Your assumption is that this will take incrementally more
@@ -4801,7 +4801,7 @@ purchases of inventory.
 created for each dollar of COGS. To determine this, first look at the
 historical relationship between COGS and accounts payable.**
 
-![](./media/image92.tiff)
+![](./media/image92.png)
 
 Here the relationship between supplier credit (accounts payable) and
 COGS varies between 10% and 15% of COGS, presumably as different amounts
@@ -4813,13 +4813,13 @@ best guess. In this case, 11% has been chosen.
 
 **2. Now project how revenues and COGS will change in the future.**
 
-![](./media/image93.tiff)
+![](./media/image93.png)
 
 **3. The final step is to project the incremental amounts of supplier
 credit that will come from an increase in purchases for COGS to support
 increased production and sales.**
 
-![](./media/image94.tiff)
+![](./media/image94.png)
 
 Another approach would have been to calculate the accounts payable on
 the balance sheet at the end of each year and calculate the changes
@@ -4839,7 +4839,7 @@ interim, you record this IOU as accounts receivable.
 **1. The first step is to analyze the relationship between revenues and
 the dollars of customer credit.**
 
-![](./media/image95.tiff)
+![](./media/image95.png)
 
 You would prefer to see a list of customers ranked by size of account,
 showing the prices paid per unit and total contributions made by each
@@ -4853,7 +4853,7 @@ between 8% and 10% of revenues.
 
 **2. Next you return to your revenue projections.**
 
-![](./media/image96.tiff)
+![](./media/image96.png)
 
 **3. Finally, you project the incremental amounts of customer credit
 that will be required to support increased revenues.**
@@ -4863,7 +4863,7 @@ will affect revenue, but with nothing more than historical data, you
 simply have to make your best guess. In this case, 9% of revenues has
 been chosen.
 
-![](./media/image97.tiff)
+![](./media/image97.png)
 
 **<span class="underline">Summing Up Changes in Working Capital for the
 uFCFF</span>**
@@ -4871,7 +4871,7 @@ uFCFF</span>**
 The next step is to sum all the changes in working capital investments,
 to include in the uFCFF statement.
 
-![](./media/image98.tiff)
+![](./media/image98.png)
 
 **Investments in Fixed Assets**
 
@@ -4901,12 +4901,12 @@ in-depth understanding of the physical processes and the condition of
 equipment and buildings of your particular business, it will be
 difficult for you to estimate future expenditures.
 
-![](./media/image99.tiff)
+![](./media/image99.png)
 
 You decide to settle on 3% of revenues as an estimate for annual capital
 expenditure requirements.
 
-![](./media/image100.tiff)
+![](./media/image100.png)
 
 W12: Adding Debt
 
@@ -5098,19 +5098,19 @@ subtracted after taxable income has been calculated. In other words, all
 the table below needs are the interest and principal payments required
 by the debt.
 
-![](./media/image101.tiff)
+![](./media/image101.png)
 
 But how do you decide what numbers to use in the FCFE projection for
 interest and principal? For that, you need to construct an amortization
 table.
 
-![](./media/image102.tiff)
+![](./media/image102.png)
 
 So if you took out a loan for $100 with an 8% interest rate and
 principal payments that are due in five equal installments, your
 amortization table would look like this:
 
-![](./media/image103.tiff)
+![](./media/image103.png)
 
 **How to Plug Debt Payments into a Projection of FCFF to Create a
 Projection of FCFE**
@@ -5189,7 +5189,7 @@ were for $100 paid over 5 years, with an 8% interest rate, and yet there
 is a significant difference in the amount of cash required to pay back
 the loans and when that cash is needed.
 
-![](./media/image104.tiff)
+![](./media/image104.png)
 
 Carefully analyze the schedule of principal payments and interest terms
 in your loan documents. Use these to build a debt amortization table and
@@ -5343,7 +5343,7 @@ terminal value, a lump sum meant to capture all the remaining value of
 free cash flows past the forecast period, and add this to the uFCFF for
 that year. Choose a discount rate and discount the uFCFF to get the IFV.
 
-![](./media/image105.tiff)
+![](./media/image105.png)
 
 **<span class="underline">Summary</span>**
 
@@ -5651,7 +5651,7 @@ capital.
 
 4\. Calculate your unlevered free cash flow to the firm.
 
-![](./media/image106.tiff)
+![](./media/image106.png)
 
 You now have a more precise estimate of how your assets will affect the
 amount of cash your business will produce. Ask yourself, “Will these
@@ -5697,7 +5697,7 @@ accounts payable for credit extended by suppliers) and fixed-asset
 investments, net of previous depreciation (net plant, property, and
 equipment).
 
-![](./media/image107.tiff)
+![](./media/image107.png)
 
 Notice that inventories, accounts payable, accounts receivable, and
 plant, property, and equipment have been increasing together with sales.
@@ -5706,7 +5706,7 @@ dollars in investments are required for each dollar in revenues (or, in
 the case of accounts payable, how many dollars are provided by suppliers
 extending credit to you).
 
-![](./media/image108.tiff)
+![](./media/image108.png)
 
 Table 3 sums the assets that require investments as revenues grow
 (inventory, accounts receivable, and net PP\&E) and subtracts accounts
@@ -5714,7 +5714,7 @@ payable (supplier credit), which supplies cash as revenues grow, to
 provide the net asset intensity of a business. This is the amount of
 investment needed to support each dollar of sales.
 
-![](./media/image109.tiff)
+![](./media/image109.png)
 
 In Table 3, the average net asset intensity has been declining over
 time, suggesting that the firm is getting more efficient as revenues
@@ -5810,7 +5810,7 @@ formula, increases in capital expenditures are assumed to be directly
 proportional to increases in revenues, even though in reality such
 investments frequently are sporadic or “lumpy” in nature.
 
-![](./media/image110.tiff)
+![](./media/image110.png)
 
 **Net Operating Profits After Taxes (NOPAT)**
 
@@ -5818,7 +5818,7 @@ Net operating profits after taxes (NOPAT) measures how much cash flow is
 produced from operations that can be used to fund investments needed to
 support growth.
 
-![](./media/image111.tiff)
+![](./media/image111.png)
 
 To find the NOPAT margin, you divide NOPAT by revenues.
 
@@ -5912,7 +5912,7 @@ causing you to lose control of the firm if revenues lag.
 
 **The Basics of Unlevered Free Cash Flows to the Firm Revisited**
 
-![](./media/image112.tiff)
+![](./media/image112.png)
 
 **Moving From Free Cash Flows to the Firm to Free Cash Flows to Equity**
 
@@ -5921,7 +5921,7 @@ only requires including two more line items – subtracting interest
 payments before taxable income is calculated and subtracting principal
 repayments below the taxable income line, as shown below:
 
-![](./media/image113.tiff)
+![](./media/image113.png)
 
 **A Gift from the Internal Revenue Service: Deducting Interest Payments
 from Your Taxes**
@@ -5959,7 +5959,7 @@ table that describes the timing and magnitude of interest and principal
 payments for each year of the loan3 . Check your amortization table
 against the bank or financier to make sure your figures match theirs.
 
-![](./media/image114.tiff)
+![](./media/image114.png)
 
 Once you have confirmed that your amortization table conforms to the
 legal terms in your loan documents, transfer the yearly “Principal” and
@@ -6026,7 +6026,7 @@ and services; and build a sales funnel to close the right customers, at
 the right time, in sufficient quanitities, at as low a cost per sale and
 with as small an upfront investment as possible?
 
-![](./media/image115.tiff)
+![](./media/image115.png)
 
 ## **Stages Growing In Sales**
 
@@ -6268,7 +6268,7 @@ real problem that you haven’t found customers who are willing to pay for
 the value you provide? If so, that needs to be addressed now, before you
 go any farther.
 
-![](./media/image116.tiff)
+![](./media/image116.png)
 
 **Season Two: Shifting Focus to the Segments That Make a Market**
 
@@ -6294,7 +6294,7 @@ value on your product, or do you price low to penetrate, to capture as
 much of the market as possible? Let’s stick with the water example to
 illustrate.
 
-![](./media/image117.tiff)
+![](./media/image117.png)
 
 <span class="underline">Pricing High (Skimming)</span>
 
@@ -6309,7 +6309,7 @@ By pricing low, you’ll need to sell as many units as possible across all
 the segments. But pricing low means giving the customers in segments A,
 B, and C a disproportionately large amount of the value added.
 
-![](./media/image118.tiff)
+![](./media/image118.png)
 
 **Why not just charge different segments different prices?**
 
@@ -6341,7 +6341,7 @@ benefits
 sure to account for the time and money it’ll take to reach those
 segments.</span>
 
-![](./media/image119.tiff)
+![](./media/image119.png)
 
 **So, price aside, how should you go about segmenting?**
 
@@ -6446,7 +6446,7 @@ on expanding the most profitable ones. Watch out: If increasing sales
 are coming from a low-margin channel like Walmart, soon average profits
 as a percentage of revenues will start to decline
 
-![](./media/image120.tiff)
+![](./media/image120.png)
 
 **Summary**
 
@@ -6555,7 +6555,7 @@ largely depends on:
         and mowing the yard themselves versus paying a landscaping
         service).
 
-![](./media/image121.tiff)
+![](./media/image121.png)
 
 3.  **Image or Complex Needs** (These usually say something about the
     user’s identity (for consumer goods) or involve solving complex
@@ -6578,7 +6578,7 @@ volume.
 quickly as possible, so you can spread large fixed-period costs over as
 many units as possible.
 
-![](./media/image122.tiff)
+![](./media/image122.png)
 
 **Summary**
 
@@ -6605,7 +6605,7 @@ just may save your business.
 
 W8: The Art of Pricing Part 2
 
-![](./media/image58.tiff)
+![](./media/image58.png)
 
 **Start with Supply**
 
@@ -6675,7 +6675,7 @@ group of customers with relatively homogeneous needs.
     much shared value you want to offer the customer and how much you
     want to keep, and you’ve determined your new price.
 
-![](./media/image59.tiff)
+![](./media/image59.png)
 
 **Value **
 
@@ -6685,7 +6685,7 @@ pay is set inside the mind of each consumer as they make subjective and
 sometimes irrational tradeoffs between the money they have, the
 intensity of the desires they wish to satisfy,
 
-![](./media/image60.tiff)
+![](./media/image60.png)
 
 **The Mistake of Using Costs to Set Prices **
 
@@ -6720,7 +6720,7 @@ create a new product; (2) attract customers; (3) manufacture a product;
 or (4) deliver a product. 15 It typically serves every customer in the
 same way.
 
-![](./media/image61.tiff)
+![](./media/image61.png)
 
 **Summary**
 
@@ -6780,7 +6780,7 @@ W10: The Sales Funnel
         amount of your time and, only after a great deal of time,
         attention, and money has been spent, decides not to buy.
 
-![](./media/image123.tiff)
+![](./media/image123.png)
 
 **Building a Sales Funnel**
 
@@ -6892,9 +6892,9 @@ potentially much more lucrative, but harder to predict.
 
 So which is better for your business? The short answer: It depends.
 
-![](./media/image124.tiff)
+![](./media/image124.png)
 
-![](./media/image125.tiff)
+![](./media/image125.png)
 
 **The Benefits and Drawbacks of Sales Funnels and Word of Mouth**
 
@@ -6997,7 +6997,7 @@ followers so that you don’t expend wasted effort elsewhere?
 
 So which is it? The truth is—you need them both.
 
-![](./media/image126.tiff)
+![](./media/image126.png)
 
   - WOM campaigns sound exciting, but they’re usually too unreliable and
     unpredictable of a technique on which to bet your future. That means
