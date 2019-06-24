@@ -1,2 +1,3 @@
 mkdocs
 mkauthdocs
+mkdocs-windmill
