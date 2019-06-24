@@ -2,18 +2,26 @@ site_name: Acton Business Review
 site_url: 'http://shazzam.me'
 # repo_url: https://github.com/TheKingBee/Acton-2019-Review
 theme:
-  name: null 
-  custom_dir: 'mkdocs-material/material'
-  logo: 'cloud'
-  language: 'en'
-  palette:
-    primary: 'indigo'
-    accent: 'indigo'
-  font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
-  feature: 'false'
+  name: null
+  custom_dir: 'mkdocs_windmill/mkdocs_windmill'
+  # Copy settings from mkdocs_theme.yml, which is ignored by custom_dir themes.
+  static_templates: [404.html]
+  search_index_only: true
+  include_search_page: true
+  #theme:
+  #name: null 
+  #custom_dir: 'mkdocs-material/material'
+  #logo: 'cloud'
+  #language: 'en'
+  #palette:
+  # primary: 'indigo'
+  # accent: 'indigo'
+  #font:
+  # text: 'Roboto'
+  # code: 'Roboto Mono'
+  #feature: 'false'
 nav:
+  - Home: index.md
   - frameworks.md
   - Appendix1.md
   - 'Customers & Sales':
