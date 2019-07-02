@@ -3,13 +3,9 @@
 ## Cash & Valuation
 |Overviews & Principles   	|Cash & Val  	|Debt and Financing   	|Accounting   	|
 |:-:	|:-:	|:-:	|:-:	|
-|[Intro To Cash & Val](intro-to-cash-and-valuation.md)   	| [Simple Valuation](simple-valuation.md) 	|   	|   	|
+|[Intro To Cash & Val](intro-to-cash-and-valuation.md)   	| [Simple Valuation](simple-valuation.md) 	| [Operating and Financial Leverage](operating-and-financial-leverage.md)   	  	| [Unit Economics in Action](unit-economics-in-action.md)   	  	|
 |[Searching For A Mythical Numbers Guru](mythical-numbers-guru.md)   	| [Pretax Cash-Flows & Breakeven](pretax-cashflows-and-breakeven.md)   	  	|   	|   	|
 |[Principles of Cash & Val](principles-of-cash-and-valuation.md)   	|   	|   	|   	|
-||   	|   	|   	|
-||   	|   	|   	|
-|[Unit Economics in Action](unit-economics-in-action.md)   	|   	|   	|   	|
-|[Operating and Financial Leverage](operating-and-financial-leverage.md)   	|   	|   	|   	|
 |[Standing Between Demand & Supply](standing-between-demand-and-supply.md)   	|   	|   	|   	|
 |[Becoming A Financial Detective](becoming-a-financial-detective.md)   	|   	|   	|   	|
 |[Counting Cash In A Simple Firm](counting-cash-in-a-simple-firm.md)   	|   	|   	|   	|
