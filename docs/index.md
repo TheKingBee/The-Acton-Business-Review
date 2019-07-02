@@ -15,7 +15,7 @@
 |[Counting Cash In A Simple Firm](counting-cash-in-a-simple-firm.md)   	|   	|   	|   	|
 |[Estimating Discount Rates](estimating-discount-rates.md)   	|   	|   	|   	|
 |[Estimating Terminal Values](estimating-terminal-values.md)   	|   	|   	|   	|
-|   	|   	|   	|   	|
+|[Intrinsic Firm Value For Simple Firms](ifv-simplefirms.md)   	|   	|   	|   	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
