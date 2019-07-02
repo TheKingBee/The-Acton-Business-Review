@@ -3,9 +3,9 @@
 ## Cash & Valuation
 |Column 1   	|Column 2   	|Column 3   	|Column 4   	|
 |:-:	|:-:	|:-:	|:-:	|
-|[Intro To Cash & Val](intro-to-cash-and-valuation.md)   	|   	|   	|   	|
-|   	|   	|   	|   	|
-|   	|   	|   	|   	|
+|[Intro To Cash & Val](intro-to-cash-and-valuation.md)   	|  	|   	|   	|
+| [Searching For A Mythical Numbers Guru](searching-for-the-mythical-numbers-guru.md)   	|   	|   	|   	|
+|[Principles of Cash & Val](principles-of-cash-and-valuation.md)   	|   	|   	|   	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
