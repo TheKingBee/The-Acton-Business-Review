@@ -6,12 +6,13 @@
 |[Intro To Cash & Val](intro-to-cash-and-valuation.md)   	|  	|   	|   	|
 |[Searching For A Mythical Numbers Guru](searching-for-the-mythical-numbers-guru.md)   	|   	|   	|   	|
 |[Principles of Cash & Val](principles-of-cash-and-valuation.md)   	|   	|   	|   	|
+|[Pretax Cash-Flows & Breakeven](pretax-cashflows-and-breakeven.md)   	|   	|   	|   	|
 |[Simple Valuation](simple-valuation.md)   	|   	|   	|   	|
 |[Unit Economics in Action](unit-economics-in-action.md)   	|   	|   	|   	|
 |[Operating and Financial Leverage](operating-and-financial-leverage.md)   	|   	|   	|   	|
 |[Standing Between Demand & Supply](standing-between-demand-and-supply.md)   	|   	|   	|   	|
 |[Becoming A Financial Detective](becoming-a-financial-detective.md)   	|   	|   	|   	|
-|   	|   	|   	|   	|
+|[Counting Cash In A Simple Firm](counting-cash-in-a-simple-firm.md)   	|   	|   	|   	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
