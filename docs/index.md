@@ -13,7 +13,8 @@
 |[Standing Between Demand & Supply](standing-between-demand-and-supply.md)   	|   	|   	|   	|
 |[Becoming A Financial Detective](becoming-a-financial-detective.md)   	|   	|   	|   	|
 |[Counting Cash In A Simple Firm](counting-cash-in-a-simple-firm.md)   	|   	|   	|   	|
-|   	|   	|   	|   	|
+|[Estimating Discount Rates](estimating-discount-rates.md)   	|   	|   	|   	|
+|[Estimating Terminal Values](estimating-terminal-values.md)   	|   	|   	|   	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
