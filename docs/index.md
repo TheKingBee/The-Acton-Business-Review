@@ -1,13 +1,13 @@
 # Welcome to the 2019 Acton Review
 
 ## Cash & Valuation
-|Overviews & Principles   	|Valuation  	|Debt and Financing   	|Accounting   	|
+|Overviews & Principles   	|Cash & Val  	|Debt and Financing   	|Accounting   	|
 |:-:	|:-:	|:-:	|:-:	|
-|[Intro To Cash & Val](intro-to-cash-and-valuation.md)   	|  	|   	|   	|
-|[Searching For A Mythical Numbers Guru](searching-for-the-mythical-numbers-guru.md)   	|   	|   	|   	|
+|[Intro To Cash & Val](intro-to-cash-and-valuation.md)   	| [Simple Valuation](simple-valuation.md) 	|   	|   	|
+|[Searching For A Mythical Numbers Guru](mythical-numbers-guru.md)   	| [Pretax Cash-Flows & Breakeven](pretax-cashflows-and-breakeven.md)   	  	|   	|   	|
 |[Principles of Cash & Val](principles-of-cash-and-valuation.md)   	|   	|   	|   	|
-|[Pretax Cash-Flows & Breakeven](pretax-cashflows-and-breakeven.md)   	|   	|   	|   	|
-|[Simple Valuation](simple-valuation.md)   	|   	|   	|   	|
+||   	|   	|   	|
+||   	|   	|   	|
 |[Unit Economics in Action](unit-economics-in-action.md)   	|   	|   	|   	|
 |[Operating and Financial Leverage](operating-and-financial-leverage.md)   	|   	|   	|   	|
 |[Standing Between Demand & Supply](standing-between-demand-and-supply.md)   	|   	|   	|   	|
