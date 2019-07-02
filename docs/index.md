@@ -1,7 +1,7 @@
 # Welcome to the 2019 Acton Review
 
 ## Cash & Valuation
-|Column 1   	|Column 2   	|Column 3   	|Column 4   	|
+|Overviews & Principles   	|Valuation  	|Debt and Financing   	|Accounting   	|
 |:-:	|:-:	|:-:	|:-:	|
 |[Intro To Cash & Val](intro-to-cash-and-valuation.md)   	|  	|   	|   	|
 |[Searching For A Mythical Numbers Guru](searching-for-the-mythical-numbers-guru.md)   	|   	|   	|   	|
