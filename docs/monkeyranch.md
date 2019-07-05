@@ -22,3 +22,12 @@
 # Monkey Ranch 6
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-2asOLLtVa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Monkey Ranch 7
+# Monkey Ranch 8
+# Monkey Ranch 9
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUr_y2CNB3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9iwZOzR8LlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Monkey Ranch 10
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQLBwYIwS7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
